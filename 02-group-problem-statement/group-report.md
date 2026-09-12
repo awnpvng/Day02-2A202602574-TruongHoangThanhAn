@@ -8,7 +8,7 @@
 | --- | ------------------------- | -------------- | --------------------- |
 | 1   | Trương Hoàng Thành An | 2A202602574    | Leader + Writer       |
 | 2   | Phạm Anh Minh            | 2A202603009    | Research + Workflow   |
-| 3   | Phan Thị Khánh Linh     | 2A202603009    | Research + Validation |
+| 3   | Phan Thị Khánh Linh     | 2A202602360    | Research + Validation |
 | 4   | Nguyễn Thị Minh Tiến   | 2A202602997    | Writer + Pitch       |
 
 **Candidate problem nhóm chọn (1 câu):**
